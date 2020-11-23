@@ -1,18 +1,46 @@
-= Anh D. Do
+= Anh Do
 
 ~~~
 {}{img_left}{avatar.png}{alt text}{150}{190}{IMGLINKTARGET}
-AI Resident -- VinAI research, Hanoi, Vietnam \n
-John von Neumann Institute -- VNU-HCM \n
+AI Resident -- [https://www.vinai.io VinAI Research], Hanoi -- Vietnam \n
+[http://www.jvn.edu.vn/ John von Neumann Institute -- VNU-HCM] \n
 *Contact*: anhddo93 at gmail dot com \n
 [https://github.com/anhddo Github], cv
 ~~~
 
 *Research interest*: Multi-armed bandits, Reinforcement learning theory.
 
-== Publications
-*Regret bound for optimistic value iteration for average reward MDPs*. \n
-Yasin Abbasi-Yadkori, Anh Do, Botao Hao, Nevena Lazic, Csaba Szepesvari
+== Papers
+- *Regret bound for optimistic value iteration for average reward MDPs*. \n
+/Yasin Abbasi-Yadkori, Anh Do, Botao Hao, Nevena Lazic, Csaba Szepesvari/
+
+== Educations
+- M.S, Information and Communication Technologies, [http://www.jvn.edu.vn/ John von Neumann Institute - Vietnam National University HCM]. 2018 -- present \n
+    Thesis: /Regret bounds for  Optimistic Value Iteration/.\n
+
+-  B.E.(Hons), Computer Science, [https://www.hcmut.edu.vn/en Ho Chi Minh University of Technology -- Vietnam National University HCM], April 2016 \n
+    Thesis: /Density-based object detection/.\n
+
+== Employments
+
+- AI Research Resident, [https://www.vinai.io VinAI Research] \n
+Topic: /Exploration with Optimistic Value Iteration/. \n
+Supervisor: [https://yasin-abbasi.github.io/ Yasin Abbasi-Yadkori] and [https://scholar.google.com/citations?user=KcUuEKsAAAAJ&hl=vi Tung Pham] \n
+
+- Research engineer, [https://hiip.asia/?lang=en Hiip], Ho Chi Minh, Vietnam,  May 2018 -- Sep 2018 \n
+
+- Sofware Engineer, [https://rollingant.com Rolling Ant], Ho Chi Minh, Vietnam.    Jul 2016 -- Sep 2017\n
+
+== Teaching
+Teaching Assistant, Ho Chi Minh University of Technology -- Vietnam National University HCM \n
+    - Introduction to programming, Spring 2019 
+    - Computer graphics, Fall 2017
+    - Introduction to programming, Spring 2016
 
 == Activities
-Multi-armed bandits reading group ([https://drive.google.com/drive/folders/1ocHNCCG9yjUDPwyzl_RysMyuzq3KAaHi?usp=sharing presentation], [https://colab.research.google.com/drive/1gvdIiG6sKdWEHVKBUYPx-sGvwI5a0JJu?usp=sharing code]). 
+- Multi-armed bandits reading group ([https://drive.google.com/drive/folders/1ocHNCCG9yjUDPwyzl_RysMyuzq3KAaHi?usp=sharing presentation], [https://colab.research.google.com/drive/1gvdIiG6sKdWEHVKBUYPx-sGvwI5a0JJu?usp=sharing code]). 
+
+- [https://ai2020.vinai.io/ AIDAY 2020], Rising to the challenge, (Organizer)
+
+- VinAI retreat, Optimistic policy iteration, April 2020 ([https://drive.google.com/file/d/1plT_PbzkCTBbLGyqDZa41KYvsx16AyK0/view?usp=sharing technical report], [https://drive.google.com/file/d/16t5T2kF7wygTAqQDCxfhWsj-5Ty73aha/view?usp=sharing slide], [https://drive.google.com/file/d/1UAExm_57dbo_RqM71voVnjR_56nme-aO/view?usp=sharing poster])
+
