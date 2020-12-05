@@ -8,11 +8,11 @@ AI Resident -- [https://www.vinai.io VinAI Research], Hanoi -- Vietnam \n
 [https://github.com/anhddo Github]
 ~~~
 
-*Research interest*: Multi-armed bandits, Reinforcement learning theory.
+*Research interests*: Online learning, multi-armed bandits, reinforcement learning theory.
 
-== Papers
-- *Regret bound for optimistic value iteration for average reward MDPs* (Submitted to NeurIPS 2020) \n
-/Yasin Abbasi-Yadkori, Anh Do, Botao Hao, Nevena Lazic, Csaba Szepesvari/
+== Preprints
+- *Regret bound for optimistic value iteration for average reward MDPs* \n
+/Yasin Abbasi-Yadkori, Anh Do, Botao Hao, Nevena Lazic, Csaba Szepesvári/
 
 == Educations
 - M.S., Information and Communication Technologies, [http://www.jvn.edu.vn/ John von Neumann Institute - Vietnam National University HCM], 2018 -- present \n
