@@ -2,8 +2,8 @@
 = Code
 
 ~~~
-{}{img_left}{imgs/double_q.png}{alt text}{150}{100}{}
-Double Q-Learning \[[https://github.com/anhddo github]\] \n
+{}{img_left}{imgs/double_q_learning.gif}{alt text}{150}{100}{}
+Double Q-Learning (agent learns to dig a hole in Breakout game) \[[https://github.com/anhddo/double_q_learning github]\] \n
 ~~~
 
 ~~~

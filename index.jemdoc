@@ -11,18 +11,15 @@ AI Resident -- [https://www.vinai.io VinAI Research], Hanoi -- Vietnam \n
 
 *Research interests*: Online learning, multi-armed bandits, reinforcement learning theory.
 
-== Preprints
-- *Regret bound for optimistic value iteration for average reward MDPs* \n
-/Yasin Abbasi-Yadkori, Anh Do, Botao Hao, Nevena Lazic, Csaba Szepesvári/
 
 == Education
-- M.S., Information and Communication Technologies, [http://www.jvn.edu.vn/ John von Neumann Institute - Vietnam National University HCM], 2018 -- present \n
+- M.Sc., Information and Communication Technologies, [http://www.jvn.edu.vn/ John von Neumann Institute - Vietnam National University HCM], 2018 -- present \n
     Thesis: /Regret bounds for  Optimistic Value Iteration/.\n
 
 -  B.E. (Hons), Computer Science, [https://www.hcmut.edu.vn/en Ho Chi Minh University of Technology -- Vietnam National University HCM], April 2016 \n
     Thesis: /Density-based object detection/.\n
 
-== Employments
+== Experiences
 
 - AI Research Resident, [https://www.vinai.io/publications/ VinAI Research] \n
 #Project: /Exploration with Optimistic Value Iteration/. \n
@@ -32,14 +29,17 @@ Mentors: [https://yasin-abbasi.github.io/ Yasin Abbasi-Yadkori] and [https://sch
 
 - Sofware Engineer, [https://rollingant.com Rolling Ant], Ho Chi Minh, Vietnam.    Jul 2016 -- Sep 2017\n
 
+== Preprints
+- *Regret Bound for Optimistic Value Iteration for Average-Reward MDPs*, /Yasin Abbasi-Yadkori, Anh Do, Botao Hao, Nevena Lazic, Csaba Szepesvári/
+
 == Teaching
 Teaching Assistant at [https://www.hcmut.edu.vn/en Ho Chi Minh University of Technology -- Vietnam National University HCM] \n
     - Introduction to programming, (Spring 2016, Spring 2019)
     - Computer graphics (Fall 2017)
 
-== Languages
-- Vietnamese: Native
-- English: C1 (IELTS 7.5)
+#== Languages
+#- Vietnamese: Native
+#- English: C1 (IELTS 7.5)
 
 
 == Activities
