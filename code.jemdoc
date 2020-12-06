@@ -1,0 +1,38 @@
+# jemdoc: menu{MENU}{code.html}
+= Code
+
+~~~
+{}{img_left}{imgs/github_theme.png}{alt text}{150}{100}{}
+Double Q-Learning \[[https://github.com/anhddo github]\] \n
+~~~
+
+~~~
+{}{img_left}{imgs/github_theme.png}{alt text}{150}{100}{}
+ Github theme for neovim [https://github.com/anhddo/github-colorscheme \[github\]] \n
+~~~
+ 
+~~~
+{}{img_left}{imgs/wine.png}{alt text}{150}{100}{}
+Wine quality visualization \[[https://wine-quality-anhddo.herokuapp.com website], [https://github.com/anhddo/wine-quality-visualization github]\] \n
+~~~
+
+~~~
+{}{img_left}{imgs/image_captioning.png}{alt text}{150}{100}{}
+Image captioning \[[https://github.com/anhddo/image_caption github]\] \n
+~~~
+
+~~~
+{}{img_left}{imgs/density_detection.png}{alt text}{150}{100}{}
+Density based detection \[[https://youtu.be/99etHIX_TXs youtube], [https://github.com/anhddo/DensityBasedDetection github]\] \n
+~~~
+
+~~~
+{}{img_left}{imgs/bloxorz.png}{alt text}{150}{100}{}
+Bloxorz \[[https://youtu.be/mPiqcsG0Ll8 youtube], [https://github.com/anhddo/bloxorz github]\] \n
+~~~
+
+~~~
+{}{img_left}{imgs/terris.png}{alt text}{150}{100}{}
+Tetris \[[https://youtu.be/QcL5f8BcxZI youtube], [https://github.com/anhddo/tetris github]\] \n
+~~~
+

@@ -1,3 +1,4 @@
+# jemdoc: menu{MENU}{index.html}
 = Anh Do
 
 ~~~
@@ -33,9 +34,8 @@ Mentors: [https://yasin-abbasi.github.io/ Yasin Abbasi-Yadkori] and [https://sch
 
 == Teaching
 Teaching Assistant at [https://www.hcmut.edu.vn/en Ho Chi Minh University of Technology -- Vietnam National University HCM] for: \n
-    - Introduction to programming, Spring 2019 
-    - Computer graphics, Fall 2017
-    - Introduction to programming, Spring 2016
+    - Introduction to programming, (Spring 2016, Spring 2019)
+    - Computer graphics (Fall 2017)
 
 == Communication skills:
 - Vietnamese: Native
