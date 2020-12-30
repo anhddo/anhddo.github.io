@@ -2,13 +2,14 @@
 = Anh Do
 
 ~~~
-{}{img_left}{avatar.png}{alt text}{150}{190}{IMGLINKTARGET}
-AI Resident -- [https://www.vinai.io VinAI Research], Hanoi -- Vietnam \n
-[http://www.jvn.edu.vn/ John von Neumann Institute -- VNU-HCM] \n
-*Contact*: anhddo93 at gmail dot com \n
-[https://github.com/anhddo Github]
+{}{img_left}{avatar.jpg}{alt text}{400}{400}{IMGLINKTARGET}
+#{}{img_left}{avatar1.png}{alt text}{150}{190}{IMGLINKTARGET}
 ~~~
 
+== About Me
+AI Resident -- [https://www.vinai.io/publications/ VinAI Research], Hanoi -- Vietnam \n
+Student at [http://www.jvn.edu.vn/ John von Neumann Institute -- VNU-HCM] \n
+*Contact*: anhddo93 at gmail dot com \n
 *Research interests*: Online learning, multi-armed bandits, reinforcement learning theory.
 
 
@@ -30,7 +31,8 @@ Mentors: [https://yasin-abbasi.github.io/ Yasin Abbasi-Yadkori] and [https://sch
 - Sofware Engineer, [https://rollingant.com Rolling Ant], Ho Chi Minh, Vietnam.    Jul 2016 -- Sep 2017\n
 
 == Preprints
-- *Regret Bound for Optimistic Value Iteration for Average-Reward MDPs*, /Yasin Abbasi-Yadkori, Anh Do, Botao Hao, Nevena Lazic, Csaba Szepesvári/
+- *Regret Bound for Optimistic Value Iteration for Average-Reward MDPs* (2020)\n
+ /Yasin Abbasi-Yadkori, Anh Do, Botao Hao, Nevena Lazic, Csaba Szepesvári/
 
 == Teaching
 Teaching Assistant at [https://www.hcmut.edu.vn/en Ho Chi Minh University of Technology -- Vietnam National University HCM] \n
